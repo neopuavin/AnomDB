@@ -1,0 +1,84 @@
+09-09-2015 11:03:19    ERROR: Object reference not set to an instance of an object. at InitDataSet
+09-09-2015 12:25:56    ERROR: Column 'orig_color' does not belong to table tree_view. at ProcessTreeColor
+09-09-2015 12:25:56    ERROR: Column 'orig_color' does not belong to table tree_view. at ApplicationError()
+09-09-2015 12:28:40    ERROR: Column 'orig_color' does not belong to table tree_view. at ProcessTreeColor
+09-09-2015 12:28:46    ERROR: Column 'orig_color' does not belong to table tree_view. at ApplicationError()
+09-09-2015 12:32:07    ERROR: The handle is invalid.
+ at ApplicationError()
+09-09-2015 12:47:27    ERROR: One or more errors occurred. at InitTreeView
+09-09-2015 12:47:27    ERROR: One or more errors occurred. at ApplicationError()
+09-09-2015 14:01:48    ERROR: Could not create type 'AnomDB.RequestHandler'. at ApplicationError()
+09-09-2015 14:02:13    ERROR: Could not create type 'AnomDB.RequestHandler'. at ApplicationError()
+13-01-2016 15:41:48    ERROR: Object reference not set to an instance of an object. at AnomalyRefNo
+13-01-2016 15:41:49    ERROR: Object reference not set to an instance of an object. at AddAnomaly
+13-01-2016 15:42:19    ERROR: Object reference not set to an instance of an object. at ApplicationError()
+13-01-2016 16:05:01    ERROR: Object reference not set to an instance of an object. at AnomalyRefNo
+13-01-2016 16:05:01    ERROR: Object reference not set to an instance of an object. at AddAnomaly
+13-01-2016 16:05:01    ERROR: Object reference not set to an instance of an object. at ApplicationError()
+20-01-2016 12:42:36    ERROR: Object reference not set to an instance of an object. at InitDataSet
+20-01-2016 16:01:04    ERROR: Object reference not set to an instance of an object. at InitDataSet
+20-01-2016 17:01:06    ERROR: Object reference not set to an instance of an object. at InitDataSet
+26-01-2016 12:02:21    ERROR: Object reference not set to an instance of an object. at InitDataSet
+09-06-2016 11:41:46    ERROR: Object reference not set to an instance of an object. at TableValue
+09-06-2016 11:48:26    ERROR: Syntax error (missing operator) in query expression '''9''''-65pc.txt','9304'. at AddReference
+11-09-2017 12:41:42    ERROR: Object reference not set to an instance of an object. at InitDataSet
+22-02-2018 15:31:17    ERROR: Could not update; currently locked. at UpdateAnomaly
+07-03-2018 16:28:04    ERROR: Object reference not set to an instance of an object. at InitDataSet
+02-04-2018 13:04:43    ERROR: Object reference not set to an instance of an object. at InitDataSet
+03-04-2018 10:09:59    ERROR: No value given for one or more required parameters. at GetDataRow
+21-05-2019 16:27:44    ERROR: Object reference not set to an instance of an object. at InitDataSet
+22-05-2019 10:28:47    ERROR: Object reference not set to an instance of an object. at InitDataSet
+30-05-2019 15:12:41    ERROR: Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints. at GetDataTable
+30-05-2019 15:12:42    ERROR: Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints. at GetJSON:anomalies_view
+30-05-2019 15:13:02    ERROR: Failed to enable constraints. One or more rows contain values violating non-null, unique, or foreign-key constraints. at ApplicationError()
+31-05-2019 11:49:22    ERROR: Object reference not set to an instance of an object. at InitDataSet
+19-06-2019 14:40:24    ERROR: Object reference not set to an instance of an object. at InitDataSet
+20-06-2019 11:20:03    ERROR: Object reference not set to an instance of an object. at InitDataSet
+21-06-2019 12:24:55    ERROR: Unspecified error
+System resource exceeded. at GetDataTable
+21-06-2019 12:24:56    ERROR: Unspecified error
+System resource exceeded. at GetJSON:anomalies_view
+24-06-2019 12:43:25    ERROR: Object reference not set to an instance of an object. at InitDataSet
+11-07-2019 11:52:05    ERROR: Object reference not set to an instance of an object. at InitDataSet
+17-07-2019 11:59:01    ERROR: Object reference not set to an instance of an object. at InitDataSet
+23-07-2019 10:52:29    ERROR: No value given for one or more required parameters. at GetDataRow
+23-07-2019 11:51:15    ERROR: Number of query values and destination fields are not the same. at AddAnomaly
+23-07-2019 12:03:47    ERROR: Number of query values and destination fields are not the same. at AddAnomaly
+23-07-2019 12:04:15    ERROR: Number of query values and destination fields are not the same. at ApplicationError()
+26-07-2019 10:48:18    ERROR: Object reference not set to an instance of an object. at GetJSON:QRY_VALID_DEV_DETAILS
+26-07-2019 10:48:25    ERROR: Object reference not set to an instance of an object. at ApplicationError()
+26-07-2019 10:52:11    ERROR: Object reference not set to an instance of an object. at GetJSON:tblDevMain
+26-07-2019 10:52:21    ERROR: Object reference not set to an instance of an object. at ApplicationError()
+26-07-2019 10:54:15    ERROR: Object reference not set to an instance of an object. at GetJSON:tblDevMain
+26-07-2019 10:54:16    ERROR: Object reference not set to an instance of an object. at ApplicationError()
+26-07-2019 11:01:44    ERROR: Value cannot be null.
+Parameter name: String at GetJSON:tblDevMain
+26-07-2019 11:01:55    ERROR: Value cannot be null.
+Parameter name: String at ApplicationError()
+26-07-2019 11:02:23    ERROR: Value cannot be null.
+Parameter name: String at GetJSON:tblDevMain
+26-07-2019 11:02:24    ERROR: Value cannot be null.
+Parameter name: String at ApplicationError()
+26-07-2019 11:03:34    ERROR: Value cannot be null.
+Parameter name: String at GetJSON:tblDevMain
+26-07-2019 11:03:35    ERROR: Value cannot be null.
+Parameter name: String at ApplicationError()
+26-07-2019 11:09:09    ERROR: Value cannot be null.
+Parameter name: String at GetJSON:tblDevMain
+26-07-2019 11:09:12    ERROR: Value cannot be null.
+Parameter name: String at ApplicationError()
+26-07-2019 11:15:30    ERROR: Value cannot be null.
+Parameter name: String at GetJSON:QRY_VALID_DEV_DETAILS
+26-07-2019 11:15:32    ERROR: Value cannot be null.
+Parameter name: String at ApplicationError()
+26-07-2019 11:26:30    ERROR: Syntax error (missing operator) in query expression 'DevTo WHERE DevId=1389'. at GetDataTable
+26-07-2019 11:26:36    ERROR: Syntax error (missing operator) in query expression 'DevTo WHERE DevId=1389'. at ApplicationError()
+02-09-2019 16:04:34    ERROR: Object reference not set to an instance of an object. at TableValue
+02-09-2019 16:05:06    ERROR: Object reference not set to an instance of an object. at ApplicationError()
+02-09-2019 16:07:13    ERROR: Object reference not set to an instance of an object. at TableValue
+02-09-2019 16:07:54    ERROR: Object reference not set to an instance of an object. at TableValue
+02-09-2019 16:08:00    ERROR: Object reference not set to an instance of an object. at TableValue
+02-09-2019 17:16:22    ERROR: Object reference not set to an instance of an object. at InitDataSet
+16-10-2019 12:14:48    ERROR: Object reference not set to an instance of an object. at InitDataSet
+08-01-2020 11:11:43    ERROR: Object reference not set to an instance of an object. at InitDataSet
+13-01-2020 10:42:42    ERROR: Object reference not set to an instance of an object. at InitDataSet
